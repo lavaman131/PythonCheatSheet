@@ -19,7 +19,7 @@
 - [11. Copying](#11-copying)
 - [12. Generating Arrays](#12-generating-arrays)
 - [13. Random Numbers](#13-random-numbers)
-- [14. Linear Algebra (Eigenvalues / Solving Linear Systems)](#14-linear-algebra-eigenvalues-solving-linear-systems)
+- [14. Linear Algebra (Eigenvalues / Solving Linear Systems)](#14-linear-algebra-eigenvalues--solving-linear-systems)
     + [Eigenvalues](#eigenvalues)
     + [Solving Linear Systems](#solving-linear-systems)
 - [15. Loading CSV files](#15-loading-csv-files)
