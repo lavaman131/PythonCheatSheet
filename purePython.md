@@ -1,14 +1,14 @@
 # Pure Python
 
-1. [Types](#1types)
-2. [Lists](#2lists)
-3. [Dictionaries](#3dictionaries)
-4. [Sets](#4sets)
-5. [Strings](#5strings)
-6. [Operators](#6operators)
-7. [Control Flow](#7control-flow)
-8. [Functions, Classes, Generators, Decorators](#functions-classes-generators-decorators)
-9. [IPython](#8ipython)
+1. [Types](#1-types)
+2. [Lists](#2-lists)
+3. [Dictionaries](#3-dictionaries)
+4. [Sets](#4-sets)
+5. [Strings](#5-strings)
+6. [Operators](#6-operators)
+7. [Control Flow](#7-control-flow)
+8. [Functions, Classes, Generators, Decorators](#8-functions-classes-generators-decorators)
+9. [IPython](#9-ipython)
     - [magic commands](#magic-commands)
 
 ## 1. Types
