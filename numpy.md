@@ -283,8 +283,7 @@ print(d)
 e = np.concatenate((a, b.T), axis=1)
 print(e)
 # [[1 2 5]
-#
-[3 4 6]]
+# [3 4 6]]
 # hstack: Stack arrays in sequence horizontally (column wise). needs a tuple
 a = np.array([1,2,3,4])
 b = np.array([5,6,7,8])c = np.hstack((a,b))
@@ -294,16 +293,14 @@ b = np.array([[5,6], [7,8]])
 c = np.hstack((a,b))
 print(c)
 # [[1 2 5 6]
-#
-[3 4 7 8]]
+# [3 4 7 8]]
 # vstack: Stack arrays in sequence vertically (row wise). needs a tuple
 a = np.array([1,2,3,4])
 b = np.array([5,6,7,8])
 c = np.vstack((a,b))
 print(c)
 # [[1 2 3 4]
-#
-[5 6 7 8]]
+# [5 6 7 8]]
 a = np.array([[1,2], [3,4]])
 b = np.array([[5,6], [7,8]])
 c = np.vstack((a,b))
