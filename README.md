@@ -6,5 +6,7 @@ This is cheat sheet for the most useful Python libraries I use on a daily basis
 3. [numpy](pandas.md)
 4. [pandas](purePython.md)
 
-<img src="images/python_icon.png" style="height: 50%; width: 50%" class="center">
+<link href="style.css" rel="stylesheet">
+
+<img src="images/python_icon.png" class="center">
 
