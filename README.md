@@ -8,6 +8,4 @@ This is cheat sheet for the most useful Python libraries I use on a daily basis
 3. [numpy](pandas.md)
 4. [pandas](purePython.md)
 
-<div class="center">
-<img src="images/python_icon.png" />
-</div>
+<img src="images/python_icon.png" class="center">
