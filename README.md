@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet">
-
 # PythonCheatSheet 🐍
 This is cheat sheet for the most useful Python libraries I use on a daily basis
 
@@ -8,4 +6,6 @@ This is cheat sheet for the most useful Python libraries I use on a daily basis
 3. [numpy](pandas.md)
 4. [pandas](purePython.md)
 
-<img class="center" src="images/python_icon.png" style="width: 25%; height: 25%">
+<p align="center">
+<img src="images/python_icon.png" style="width: 50%; height: 50%">
+</p>
