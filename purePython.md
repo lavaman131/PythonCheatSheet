@@ -205,18 +205,24 @@ my_funct()
 
 #### magic commands
 ```python
-%lsmagic # find all magic commands list 
-%%time # get an execution time
-%who # list all variables
-%pinfo <variable> # get detailed info about variable
-%env # get and set env vars
-% load <file_name> # load external file
-%pycat <file_name> # display content of external file
-
-%%writefile <file_name> # copy content to external file
-def func():
-    print("Yayy")
-func()
-
-%run <file_name> # running external file
+%quickref # Display the IPython Quick Reference Card
+%magic # Display detailed documentation for all of the available magic commands
+%debug # Enter the interactive debugger at the bottom of the last exception traceback
+%hist # Print command input (and optionally output) history
+%pdb # Automatically enter debugger after any exception
+%paste # Execute preformatted Python code from clipboard
+%cpaste # Open a special prompt for manually pasting Python code to be executed
+%reset # Delete all variables/names defined in interactive namespace
+%page OBJECT # Pretty-print the object and display it through a pager
+%run script.py # Run a Python script inside IPython
+%prun statement # Execute statement with cProfile and report the profiler output
+%time statement # Report the execution time of a single statement
+%timeit statement # Run a statement multiple times to compute an ensemble average execution time; useful for timing code with very short execution time
+%who, %who_ls, %whos # Display variables defined in interactive namespace, with varying levels of information/ verbosity
+%xdel variable # Delete a variable and attempt to clear any references to the object in the IPython internals
+%pinfo <variable> # Get detailed info about variable
+%env # Get and set env vars
+%load <file_name> # Load external file
+%pycat <file_name> # Display content of external file
+%writefile <file_name> # Copy content to external file
 ```
